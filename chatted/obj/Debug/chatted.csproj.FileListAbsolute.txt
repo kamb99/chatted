@@ -1,0 +1,14 @@
+D:\chatted\chatted\bin\Debug\chatted.exe.config
+D:\chatted\chatted\bin\Debug\chatted.exe
+D:\chatted\chatted\bin\Debug\chatted.pdb
+D:\chatted\chatted\obj\Debug\chatted.csprojResolveAssemblyReference.cache
+D:\chatted\chatted\obj\Debug\MainWindow.g.cs
+D:\chatted\chatted\obj\Debug\App.g.cs
+D:\chatted\chatted\obj\Debug\chatted_MarkupCompile.cache
+D:\chatted\chatted\obj\Debug\chatted_MarkupCompile.lref
+D:\chatted\chatted\obj\Debug\MainWindow.baml
+D:\chatted\chatted\obj\Debug\chatted.g.resources
+D:\chatted\chatted\obj\Debug\chatted.Properties.Resources.resources
+D:\chatted\chatted\obj\Debug\chatted.csproj.GenerateResource.Cache
+D:\chatted\chatted\obj\Debug\chatted.exe
+D:\chatted\chatted\obj\Debug\chatted.pdb
