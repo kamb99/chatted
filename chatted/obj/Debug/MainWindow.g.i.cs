@@ -41,7 +41,7 @@ namespace chatted {
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
-        #line 17 "..\..\MainWindow.xaml"
+        #line 12 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button button;
         
@@ -49,7 +49,7 @@ namespace chatted {
         #line hidden
         
         
-        #line 20 "..\..\MainWindow.xaml"
+        #line 15 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button button1;
         
@@ -89,7 +89,7 @@ namespace chatted {
             case 1:
             this.button = ((System.Windows.Controls.Button)(target));
             
-            #line 18 "..\..\MainWindow.xaml"
+            #line 13 "..\..\MainWindow.xaml"
             this.button.Click += new System.Windows.RoutedEventHandler(this.button_Click);
             
             #line default

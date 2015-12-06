@@ -25,10 +25,7 @@ namespace chatted
             InitializeComponent();
         }
 
-        private void txtName_GotFocus(object sender, RoutedEventArgs e)
-        {
-            txtName.Text = "";
-        }
+        
 
         private void txtName_MouseEnter(object sender, MouseEventArgs e)
         {
@@ -40,9 +37,6 @@ namespace chatted
 
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("hello " + txtName.Text);
-        }
+        
     }
 }
